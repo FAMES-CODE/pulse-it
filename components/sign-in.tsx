@@ -7,7 +7,7 @@ export default function SignIn() {
       className="w-full"
       action={async () => {
         "use server"
-        await signIn("github")
+        await signIn("github", { redirectTo: "/dashboard" })
       }}
     >
       <button
