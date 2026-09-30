@@ -136,12 +136,6 @@ Open [http://localhost:3000](http://localhost:3000) and sign in with GitHub.
 | `npm run typecheck` | Run the TypeScript compiler (no emit)  |
 | `npm run format`    | Format code with Prettier              |
 
-## 🗺️ Roadmap
-
-- [ ] Email / Slack / Discord alerts on incidents
-- [ ] Public status pages
-- [ ] Multi-region checks
-- [ ] Team workspaces and roles
 
 ## 👤 Author
 
